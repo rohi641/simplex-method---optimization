@@ -1,1 +1,0 @@
-# simpplex-method---optimization
